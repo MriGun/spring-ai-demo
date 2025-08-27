@@ -1,5 +1,6 @@
-package com.mrinmoy.spring_ai.functions;
+package com.mrinmoy.spring_ai.controller;
 
+import com.mrinmoy.spring_ai.functions.WeatherServiceTool;
 import org.springframework.ai.chat.messages.SystemMessage;
 import org.springframework.ai.chat.messages.UserMessage;
 import org.springframework.ai.chat.model.ChatResponse;
